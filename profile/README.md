@@ -20,4 +20,6 @@ Current development includes:
 **Engine:** Unreal Engine  
 **Current stage:** Early Development — Level Design & Blockout
 
+The Family House ground-floor and Grand Staircase blockout milestone is complete. The next architectural phase is the First Floor and Upper Gallery.
+
 Development updates, screenshots, and progress notes will be shared here as the project evolves.
